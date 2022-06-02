@@ -1,2 +1,4 @@
 # Evidencia-2-La-Hidra-de-Lerna
-José Emiliano Riosmena Castañón - A01704245
+H1057 Los mitos que nos habitan: de Prometeo a Marvel
+Presenta: José Emiliano Riosmena Castañón - A01704245
+Profesor: José Manuel Velázquez Hurtado
