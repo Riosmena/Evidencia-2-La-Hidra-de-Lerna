@@ -21,5 +21,5 @@ P.D. Para compilar el juego en c++:
 
 3° g++ snake.cpp -o Snake
 
-   Snake
+      Snake
 ### Referencias
