@@ -12,9 +12,14 @@ Este mito busca explicar la implementación de una nueva funcionalidad en un sis
 Este mito resulta ser cierto porque el juego de Pong al tener una jugabilidad cómoda, esta permite que su jugabilidad no sea complicada, y a la vez que sea comoda para que así los usuarios puedan disfrutar del juego y aumentar su popularidad entre los jugadores, por ejemplo, aunque el juego de fútbol está mucho más elaborado, la jugabilidad puede llegar a resultar un poco incomoda al tener que controlar 2 paletas con una mano.
 #### Mito #3: Conocimiento
 En este mito se trata de mostrar que no es necesario contar con mucho conocimiento, en el caso de mi carrera ITC, en distintos lenguajes de programación para poder crear grandes programas. Para tratar de explicar eso, se implementaron dos videojuegos de Snake iguales, pero en diferentes lenguajes de programación, los cuales son Python, el cual lo puedes encontrar aquí: https://github.com/Riosmena/Evidencia-2-La-Hidra-de-Lerna/blob/main/Mito%203/snake.py, y C++, el cual esta presente aquí: https://github.com/Riosmena/Evidencia-2-La-Hidra-de-Lerna/blob/main/Mito%203/snake.cpp, ambos funcionan de manera igual, pero en el caso mio lo que sucede es que más que tener conocimiento sobre muchos lenguajes de programación, he buscado mejorar y especializarme en Python, por lo que eso me ha permitido aumentar mi conocimiento en ese lenguaje lo cual me ha permitido crear muchas más cosas, como lo son la mayoria de los códigos mostrados en esta evidencia. En este mito también se muestra que el código en Python está mucho más elaborado que el de C++ ha pesar de ser el mismo juego y tener la misma funcionalidad.
+
 P.D. Para compilar el juego en c++:
+
 1° Abrir la terminal: (Windows + R) → Escribir: cmd
+
 2° Abrir la carpeta en la que se encuentra el archivo cpp: cd (Nombre de la carpeta)/
+
 3° g++ snake.cpp -o Snake
+
    Snake
 ### Referencias
