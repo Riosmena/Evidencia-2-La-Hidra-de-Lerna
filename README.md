@@ -22,4 +22,16 @@ P.D. Para compilar el juego en c++:
 3° g++ snake.cpp -o Snake
 
    Snake
+O
+
+1° Abrir la carpeta en donde se encuentra el archivo cpp.
+
+2° Sin seleccionar ningun archivo, presionar Shift + click derecho.
+
+3° Seleccionar opción "Abrir ventana de PowerShell".
+
+4° g++ snake.cpp -o Snake
+   
+   ./Snake
 ### Referencias
+Lanier J.(2018) Diez razones para borrar tus redes sociales de inmediato. XcUiDi. http://catedradatos.com.ar/media/Lanier-Jaron-Diez-razones-para-borrar-tus-redes-sociales-de-inmediato-XcUiDi-2018.pdf
