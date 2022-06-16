@@ -22,7 +22,6 @@ P.D. Para compilar el juego en C++:
 3° g++ snake.cpp -o Snake
 
    Snake
-O
 
 1° Abrir la carpeta en donde se encuentra el archivo cpp.
 
